@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/DarksidesYT/Temp-Ban
+build-by-default: true
+branches:
+- main
+projects:
+  Temp-Ban:
+    path: ""
+...
